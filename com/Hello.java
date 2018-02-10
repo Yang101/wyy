@@ -1,1 +1,1 @@
-class Test{}
+public class Hello{}
